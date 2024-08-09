@@ -1,3 +1,3 @@
 export const sayHi = (name: string) => {
-  return `Hello World ${name}`
-}
+  return `Hello World ${name}`;
+};
